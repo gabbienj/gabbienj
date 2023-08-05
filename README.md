@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! 👋🏾
+
+👩🏾‍💻 My name is **_Gabbie_**  and I'm a first-year PhD student at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/aboutus "LSHTM") by way of the BBSRC-funded [LIDo Doctoral Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"). 
+
+🦟 I'm interested in understanding spatiotemporal trends and drivers of population dynamics in malaria parasites.
+
+🧬 Right now, I'm currently working on a large-scale _P. vivax_ genomics project...
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-ngwana-joseph-9446941a7/)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/gabbiecnj)](https://twitter.com/gabbiecnj)
 
 <!--
 **gabbienj/gabbienj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
