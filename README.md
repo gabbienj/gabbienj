@@ -4,7 +4,7 @@
 
 🦟 I'm interested in understanding spatiotemporal trends and drivers of population dynamics in malaria parasites.
 
-🧬 Right now, I'm currently working on a large-scale _P. vivax_ genomics project...
+🧬 Right now, I'm currently working on a large-scale _P. vivax_ population genomics project...
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-ngwana-joseph-9446941a7/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/gabbiecnj)](https://twitter.com/gabbiecnj)
