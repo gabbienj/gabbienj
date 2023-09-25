@@ -1,6 +1,6 @@
 ### Hello! 👋🏾
 
-👩🏾‍💻 My name is **_Gabbie_**  and I'm a first-year PhD student at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/aboutus "LSHTM") by way of the BBSRC-funded [LIDo Doctoral Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"). 
+👩🏾‍💻 My name is **_Gabbie_**  and I'm a second-year PhD student at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/aboutus "LSHTM") by way of the BBSRC-funded [LIDo Doctoral Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"). 
 
 🦟 I'm interested in understanding spatiotemporal trends and drivers of population dynamics in malaria parasites.
 
